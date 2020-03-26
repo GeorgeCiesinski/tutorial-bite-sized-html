@@ -1,0 +1,36 @@
+<h1>Forms</h1>
+
+<!--Forms are created with the form tag-->
+<form>
+  <!--Div is a standard container that separates your items between lines-->
+  <div>
+    <!--Form inputs follow the below format. The left part is the text, the right is the input tag, which is self closing-->
+    Name: <input type="text" required />
+  </div>
+  <div>
+    Age: <input type="number" />
+  </div>
+  <div>
+    Are you alive: <input type="checkbox" />
+  </div>
+  <div>
+    Write a haiku: <textarea></textarea>
+  </div>
+  <div>
+	Favorite RGB color:
+	<select>
+	  <option selected>red</option>
+	  <option>green</option>
+	  <option>blue</option>
+	</select>
+  </div>
+  <div>
+	Places you've been (Ctrl & click to select multiple):
+	<select multiple>
+	  <option selected>home</option>
+	  <option>school</option>
+	  <option>work</option>
+	</select>
+  </div>
+  <input type="submit" value="Save" />
+</form>

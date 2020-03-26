@@ -1,0 +1,11 @@
+Mozilla Development Network
+https://developer.mozilla.org/en-US/
+
+HTML5 Hive (Zenva Tutorials)
+https://html5hive.org/
+
+w3schools tutorials
+https://w3schools.sinsixx.com/html/default.asp.htm
+
+To see if an element is supported by a browser:
+https://caniuse.com
